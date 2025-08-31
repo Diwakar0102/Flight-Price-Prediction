@@ -1,1 +1,5 @@
-Added requirements.txt with dependencies
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
